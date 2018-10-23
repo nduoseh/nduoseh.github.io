@@ -1,0 +1,15 @@
+html,body{
+  /* background: black; */
+}
+.lobster{
+  font-family: 'Lobster', cursive !important;
+}
+.navbar-item:hover > .icon.contact.fb {
+  color: #3b5998;
+}
+.navbar-item:hover > .icon.contact.ig {
+  color: #c32aa3;
+}
+.navbar-item:hover > .icon.contact.yt {
+  color: #ff0000;
+}
