@@ -34,10 +34,10 @@ File: Layout CSS
 #pageintro{padding:150px 0;}
 
 #pageintro article{max-width:75%;}
-#pageintro article *{text-transform:uppercase;}
-#pageintro article .heading{margin:0 0 50px 0; padding:0; line-height:1; font-size:46px;}
+/* #pageintro article *{text-transform:uppercase;} */
+#pageintro article .heading{margin:0 0 50px 0; padding:0; line-height:1; font-size:30px;}
 #pageintro article p{margin:0;}
-#pageintro article p:first-of-type{margin-bottom:35px; font-size:22px; letter-spacing:5px;}
+#pageintro article p:first-of-type{margin-bottom:35px; font-size:15px;}
 #pageintro article footer{margin-top:80px;}
 
 
